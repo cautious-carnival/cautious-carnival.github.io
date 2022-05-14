@@ -1,0 +1,27 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+
+html {
+  line-height: 1.4;
+  font-size: 62.5%;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+body {
+  margin: 0;
+  font-family: "Montserrat", Helvetica, sans-serif;
+  font-size: 1.8rem;
+}
+
+h1 {
+  font-size: 3rem;
+  margin: 1rem 0;
+}
+
+li {
+  margin: 1rem 0;
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+}
